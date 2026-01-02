@@ -11,7 +11,7 @@ const FeatureList = [
         Start with fundamental ROS 2 concepts including nodes, topics, services, and actions that form the foundation of robotic systems.
       </>
     ),
-    to: '/frontend_book/docs/modules/ros2-robotics/',
+    to: '/docs/modules/ros2-robotics/',
     icon: '📚',
   },
   {
@@ -21,7 +21,7 @@ const FeatureList = [
         Hands-on modules with real-world examples covering navigation, perception, manipulation, and control systems for robotics.
       </>
     ),
-    to: '/frontend_book/docs/modules/digital-twin/intro',
+    to: '/docs/modules/digital-twin/intro',
     icon: '🛠️',
   },
   {
@@ -31,7 +31,7 @@ const FeatureList = [
         Deepen your knowledge with advanced topics including multi-robot systems, AI integration, and complex robotic architectures.
       </>
     ),
-    to: '/frontend_book/docs/modules/vla-robotics/intro',
+    to: '/docs/modules/vla-robotics/intro',
     icon: '🚀',
   },
 ];
