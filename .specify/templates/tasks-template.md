@@ -44,13 +44,14 @@ description: "Task list template for feature implementation"
   ============================================================================
 -->
 
-## Phase 1: Setup (Shared Infrastructure)
+## Phase 1: Setup (Constitution Alignment & Infrastructure)
 
-**Purpose**: Project initialization and basic structure
+**Purpose**: Constitution compliance verification and project initialization
 
-- [ ] T001 Create project structure per implementation plan
-- [ ] T002 Initialize [language] project with [framework] dependencies
-- [ ] T003 [P] Configure linting and formatting tools
+- [ ] T001 Verify implementation plan aligns with constitution principles
+- [ ] T002 Initialize [language] project with [framework] dependencies (constitution-compliant stack)
+- [ ] T003 [P] Configure linting and formatting tools to enforce clean code standards
+- [ ] T004 Verify tech stack adherence (FastAPI, Neon Postgres, Qdrant, OpenAI Agents/ChatKit)
 
 ---
 
@@ -146,16 +147,18 @@ Examples of foundational tasks (adjust based on your project):
 
 ---
 
-## Phase N: Polish & Cross-Cutting Concerns
+## Phase N: Constitution Compliance & Polish
 
-**Purpose**: Improvements that affect multiple user stories
+**Purpose**: Final constitution verification and cross-cutting improvements
 
-- [ ] TXXX [P] Documentation updates in docs/
-- [ ] TXXX Code cleanup and refactoring
-- [ ] TXXX Performance optimization across all stories
+- [ ] TXXX Verify RAG-only response constraint is enforced throughout system
+- [ ] TXXX Confirm performance requirements (<2s response) are met
+- [ ] TXXX [P] Documentation updates in docs/ (constitution-compliant architecture)
+- [ ] TXXX Code cleanup and refactoring to meet clean code standards
+- [ ] TXXX Performance optimization across all stories to meet latency requirements
 - [ ] TXXX [P] Additional unit tests (if requested) in tests/unit/
-- [ ] TXXX Security hardening
-- [ ] TXXX Run quickstart.md validation
+- [ ] TXXX Security hardening with constitution-compliant approach
+- [ ] TXXX Run quickstart.md validation with modular content architecture
 
 ---
 

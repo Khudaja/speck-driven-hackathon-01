@@ -1,0 +1,169 @@
+{
+  "/frontend_book/__docusaurus/debug-7f6": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---frontend-book-docusaurus-debugb-38-723"
+    }
+  },
+  "/frontend_book/__docusaurus/debug/config-e5a": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---frontend-book-docusaurus-debugb-38-723"
+    }
+  },
+  "/frontend_book/__docusaurus/debug/content-060": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---frontend-book-docusaurus-debugb-38-723"
+    },
+    "__props": "__props---frontend-book-docusaurus-debug-content-020-c6a"
+  },
+  "/frontend_book/__docusaurus/debug/globalData-940": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---frontend-book-docusaurus-debugb-38-723"
+    }
+  },
+  "/frontend_book/__docusaurus/debug/metadata-125": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---frontend-book-docusaurus-debugb-38-723"
+    }
+  },
+  "/frontend_book/__docusaurus/debug/registry-5bc": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---frontend-book-docusaurus-debugb-38-723"
+    }
+  },
+  "/frontend_book/__docusaurus/debug/routes-138": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---frontend-book-docusaurus-debugb-38-723"
+    }
+  },
+  "/frontend_book/docs-101": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---frontend-book-docsaba-dd7"
+    }
+  },
+  "/frontend_book/docs-7bd": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---frontend-book-docs-02-f-61d"
+  },
+  "/frontend_book/docs-46d": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/frontend_book/docs/intro-316": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-intro-0-e-3-36c"
+  },
+  "/frontend_book/docs/modules/ai-robot-brain/assets/isaac-ros-diagram-245": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-ai-robot-brain-assets-isaac-ros-diagrama-61-e4c"
+  },
+  "/frontend_book/docs/modules/ai-robot-brain/assets/isaac-sim-diagram-801": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-ai-robot-brain-assets-isaac-sim-diagram-0-cb-ef1"
+  },
+  "/frontend_book/docs/modules/ai-robot-brain/assets/nav2-diagram-048": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-ai-robot-brain-assets-nav-2-diagram-410-e06"
+  },
+  "/frontend_book/docs/modules/ai-robot-brain/chapter-1-isaac-sim-ea8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-ai-robot-brain-chapter-1-isaac-sime-17-93c"
+  },
+  "/frontend_book/docs/modules/ai-robot-brain/chapter-2-isaac-ros-vslam-094": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-ai-robot-brain-chapter-2-isaac-ros-vslam-826-4ee"
+  },
+  "/frontend_book/docs/modules/ai-robot-brain/chapter-3-nav2-path-planning-761": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-ai-robot-brain-chapter-3-nav-2-path-planning-881-be7"
+  },
+  "/frontend_book/docs/modules/ai-robot-brain/intro-92b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-ai-robot-brain-introfb-3-f1a"
+  },
+  "/frontend_book/docs/modules/digital-twin/chapter-1-gazebo-physics-simulation-1b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-digital-twin-chapter-1-gazebo-physics-simulation-9-db-d6c"
+  },
+  "/frontend_book/docs/modules/digital-twin/chapter-2-unity-environment-design-4b6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-digital-twin-chapter-2-unity-environment-design-541-3d0"
+  },
+  "/frontend_book/docs/modules/digital-twin/chapter-3-sensor-simulation-e35": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-digital-twin-chapter-3-sensor-simulationdf-5-c73"
+  },
+  "/frontend_book/docs/modules/digital-twin/intro-f5c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-digital-twin-intro-226-8a1"
+  },
+  "/frontend_book/docs/modules/ros2-robotics/-05d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-ros-2-robotics-34-a-918"
+  },
+  "/frontend_book/docs/modules/ros2-robotics/chapter-1-ros2-basics-604": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-ros-2-robotics-chapter-1-ros-2-basicse-0-e-3d9"
+  },
+  "/frontend_book/docs/modules/ros2-robotics/chapter-2-agent-integration-2a4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-ros-2-robotics-chapter-2-agent-integration-763-4b3"
+  },
+  "/frontend_book/docs/modules/ros2-robotics/chapter-3-urdf-humanoids-094": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-ros-2-robotics-chapter-3-urdf-humanoidsc-77-927"
+  },
+  "/frontend_book/docs/modules/vla-robotics/assets/autonomous-humanoid-concept-132": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-vla-robotics-assets-autonomous-humanoid-concept-033-675"
+  },
+  "/frontend_book/docs/modules/vla-robotics/assets/llm-planning-concept-df6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-vla-robotics-assets-llm-planning-concept-374-834"
+  },
+  "/frontend_book/docs/modules/vla-robotics/assets/llm-planning-diagram-f41": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-vla-robotics-assets-llm-planning-diagrama-61-47d"
+  },
+  "/frontend_book/docs/modules/vla-robotics/assets/vla-integration-diagram-ab0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-vla-robotics-assets-vla-integration-diagramd-24-710"
+  },
+  "/frontend_book/docs/modules/vla-robotics/assets/whisper-concept-9d8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-vla-robotics-assets-whisper-concept-3-d-8-4be"
+  },
+  "/frontend_book/docs/modules/vla-robotics/assets/whisper-diagram-13c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-vla-robotics-assets-whisper-diagram-1-ad-47d"
+  },
+  "/frontend_book/docs/modules/vla-robotics/chapter-1-whisper-voice-action-ba4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-vla-robotics-chapter-1-whisper-voice-actiona-58-022"
+  },
+  "/frontend_book/docs/modules/vla-robotics/chapter-2-llm-cognitive-planning-917": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-vla-robotics-chapter-2-llm-cognitive-planning-12-e-879"
+  },
+  "/frontend_book/docs/modules/vla-robotics/chapter-3-autonomous-humanoid-capstone-3f1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-vla-robotics-chapter-3-autonomous-humanoid-capstonee-69-860"
+  },
+  "/frontend_book/docs/modules/vla-robotics/intro-80d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-book-docs-modules-vla-robotics-intro-820-99b"
+  },
+  "/frontend_book/-760": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---frontend-book-a-74-b62"
+    },
+    "config": "config---frontend-book-5-e-9-085"
+  }
+}

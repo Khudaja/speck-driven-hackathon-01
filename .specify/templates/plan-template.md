@@ -31,7 +31,13 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+Verify the following constitution principles are addressed in this plan:
+- Spec-Kit Plus + Claude Code Development: Plan must follow structured specifications and AI-assisted coding practices
+- Accurate, Modular Content Architecture: Architecture must support modular, deployable content
+- RAG-Only Response Constraint: System must be designed to answer ONLY from book text content
+- Specified Tech Stack Adherence: Plan must use FastAPI, Neon Postgres, Qdrant, and OpenAI Agents/ChatKit
+- Performance and Latency Requirements: Architecture must support <2s response times
+- Clean, Documented Code Standards: All components must be well-documented and follow best practices
 
 ## Project Structure
 

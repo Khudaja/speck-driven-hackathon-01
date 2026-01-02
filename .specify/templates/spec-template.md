@@ -113,3 +113,13 @@
 - **SC-002**: [Measurable metric, e.g., "System handles 1000 concurrent users without degradation"]
 - **SC-003**: [User satisfaction metric, e.g., "90% of users successfully complete primary task on first attempt"]
 - **SC-004**: [Business metric, e.g., "Reduce support tickets related to [X] by 50%"]
+
+## Constitution Alignment
+
+Verify the following constitution principles are addressed in this specification:
+- Spec-Kit Plus + Claude Code Development: Specification must support structured development with AI assistance
+- Accurate, Modular Content Architecture: Content requirements must support modular, deployable architecture
+- RAG-Only Response Constraint: Specification must ensure answers come ONLY from book text content
+- Specified Tech Stack Adherence: Requirements must align with FastAPI, Neon Postgres, Qdrant, and OpenAI Agents/ChatKit
+- Performance and Latency Requirements: Success criteria must include <2s response time requirements
+- Clean, Documented Code Standards: Specification must include documentation requirements
