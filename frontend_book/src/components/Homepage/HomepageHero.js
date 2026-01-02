@@ -13,7 +13,7 @@ function HomepageHero() {
         <div className={styles.buttons} role="group" aria-label="Module access options">
           <a
             className="button button--secondary button--lg"
-            href="/frontend_book/docs/intro"
+            href="/docs/intro"
             target="_self"
             rel="noopener noreferrer"
             aria-label="Get started with modules"
